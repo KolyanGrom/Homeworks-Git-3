@@ -16,3 +16,5 @@
 
 ### Мои контакты:
 kolyangrom@yandex.ru
+
+![](img/IMG_9013.JPG)

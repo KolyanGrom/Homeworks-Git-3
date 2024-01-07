@@ -18,3 +18,5 @@
 kolyangrom@yandex.ru
 
 ![](img/IMG_9013.JPG)
+
+theme: jekyll-theme-minimal
